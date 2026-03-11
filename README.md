@@ -113,6 +113,10 @@ if subdirs_with_dates:
 else:
     print("*No research projects yet. Open an issue to start one!*\n")
 ]]]-->
-*No research projects yet. Open an issue to start one!*
+## 1 research projects
+
+### [JoeBOT: Reverse-Engineering a Neural Network Game Bot from 2000](https://github.com/zmackie/research/tree/main/joebot-investigation#readme) (2026-03-11 12:26)
+
+An investigation into **JoeBOT**, one of the earliest game bots to use artificial neural networks, created for Counter-Strike by Johannes Lampel ([@$3.1415rin](http://joebot.bots-united.com/)) between 2000 and 2005. ## What is JoeBOT? JoeBOT is an AI bot for the original Counter-Strike (a Half-Life mod). While most bots of that era relied entirely on scripted rules and waypoint navigation, JoeBOT was notable for incorporating **feedforward neural networks trained with backpropagation** into its combat and collision avoidance systems. The source code is [available on GitHub](https://github.com/Bots-United/joebot) under the GPL v2 license.
 
 <!--[[[end]]]-->
